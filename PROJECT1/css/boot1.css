@@ -1,0 +1,12 @@
+.nav-item .nav-link{
+    color:rgb(255, 255, 255);
+    font-weight: 400;
+}
+
+img, svg {
+    vertical-align: middle;
+    height: 70vh;
+}
+body{
+    font-size: 20px !important;
+}
